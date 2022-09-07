@@ -47,5 +47,7 @@
 	<true/>
 	<key>UIApplicationSupportsIndirectInputEvents</key>
 	<true/>
+	<key>NMFClientId</key>
+	<string>s9pvuyj7sn</string>
 </dict>
 </plist>

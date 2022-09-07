@@ -1,4 +1,5 @@
 import 'package:ddomuk/model/model_quiz.dart';
+import 'package:ddomuk/screen/screen_map_test.dart';
 import 'package:ddomuk/screen/screen_quiz.dart';
 import 'package:flutter/material.dart';
 
@@ -89,9 +90,9 @@ class _HomeScreenState extends State<HomeScreen> {
                       Navigator.push(
                         context,
                         MaterialPageRoute(
-                          builder: (context) => QuizScreen(
-                            quizs: quizs,
-                          ),
+                          builder: (context) => MapScreen(
+                              //quizs: quizs,
+                              ),
                         ),
                       );
                     },

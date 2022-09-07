@@ -38,6 +38,7 @@ dependencies:
   cupertino_icons: ^1.0.2
   card_swiper:
   auto_size_text:
+  flutter_naver_map: 0.10.5
 
 dev_dependencies:
   flutter_test:
